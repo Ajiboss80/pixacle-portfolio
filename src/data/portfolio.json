@@ -1,0 +1,259 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Abratem International",
+      "description": "Minimalist poster design for Abratem International.",
+      "categories": ["Poster"],
+      "image": "images/portfolio/abratem international.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2024"
+    },
+    {
+      "id": "2",
+      "title": "Sckeep",
+      "description": "Logo variants for an IoT monitoring system utilizing barcode scanning technology.",
+      "categories": ["Logo"],
+      "image": "images/portfolio/sckeep logos.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "3",
+      "title": "Margaret's Restaurant",
+      "description": "Poster and menu card design for a fine restaurant.",
+      "categories": ["Restaurant"],
+      "image": "images/portfolio/margaret.jpg",
+      "technologies": ["CorelDraw"],
+      "year": "2022"
+    },
+    {
+      "id": "4",
+      "title": "Dinner Tickets",
+      "description": "Elegant dinner ticket design having green and gold accents with subtle decourative patterns.",
+      "categories": ["Poster"],
+      "image": "images/portfolio/chassado tickets.jpg",
+      "technologies": ["Photoshop"],
+      "year": "2024"
+    },
+    {
+      "id": "5",
+      "title": "100% Woman",
+      "description": "Radio program poster for Royal FM.",
+      "categories": ["Poster", "Royal FM"],
+      "image": "images/portfolio/100 woman.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2024"
+    },
+    {
+      "id": "6",
+      "title": "Enchry",
+      "description": "Logo variants for an IoT data encryption system.",
+      "categories": ["Logo"],
+      "image": "images/portfolio/enchry logos.jpg",
+      "technologies": ["Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "7",
+      "title": "Daily Menu",
+      "description": "Brand logo design, color palette, and font families for Daily Menu Restaurant.",
+      "categories": ["Logo", "Restaurant"],
+      "image": "images/portfolio/daily menu logo breakdown.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2022"
+    },
+    {
+      "id": "8",
+      "title": "Goal of the Season",
+      "description": "Football poster of the 2024 Premier League Goal of the Season scored by Alejandro Garnacho, for Royal FM.",
+      "categories": ["Poster", "Royal FM"],
+      "image": "images/portfolio/goal of the season.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2024"
+    },
+    {
+      "id": "9",
+      "title": "Independence Day",
+      "description": "Minimalist independence day poster design for Grace Edu Consult.",
+      "categories": ["Poster", "Public Holidays"],
+      "image": "images/portfolio/independence grace edu.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2024"
+    },
+    {
+      "id": "10",
+      "title": "Daily Menu Convocation Menu",
+      "description": "Poster design for Daily Menu Restaurant's convocation package.",
+      "categories": ["Poster", "Restaurant"],
+      "image": "images/portfolio/convocation menu.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2024"
+    },
+    {
+      "id": "11",
+      "title": "Happy Fathers' Day",
+      "description": "Poster design for the International Fathers' Day, at Royal FM.",
+      "categories": ["Poster", "Public Holidays", "Royal FM"],
+      "image": "images/portfolio/happy fathers' day.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2024"
+    },
+    {
+      "id": "12",
+      "title": "Eid-al-adha",
+      "description": "Minimalist poster design with wine accents for Eid celebrations, at Royal FM.",
+      "categories": ["Poster", "Public Holidays", "Royal FM"],
+      "image": "images/portfolio/eid kaduna.png",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2024"
+    },
+    {
+      "id": "13",
+      "title": "Thanksgiving",
+      "description": "Decourative poster with musical instruments for a final year students' thanksgiving service.",
+      "categories": ["Poster", "Church"],
+      "image": "images/portfolio/final year students thanksgiving 2025.png",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "14",
+      "title": "Instagram Account",
+      "description": "Social media poster for a church Instagram account.",
+      "categories": ["Poster", "Church"],
+      "image": "images/portfolio/ntcm youth instagram.png",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "15",
+      "title": "Facebook Account",
+      "description": "Social media poster for a church Facebook account.",
+      "categories": ["Poster", "Church"],
+      "image": "images/portfolio/ntcm youth facebook.png",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "16",
+      "title": "Musical Concert",
+      "description": "Posters for a musical concert with a blue and white theme.",
+      "categories": ["Poster", "Church"],
+      "image": "images/portfolio/true worship.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "17",
+      "title": "Hair Essence Brand Identity Design",
+      "description": "Logo breakdown, font family, and logo variants for a hair care brand.",
+      "categories": ["Logo"],
+      "image": "images/portfolio/hair essence logo breakdown.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "18",
+      "title": "Daily Menu Logo Variants",
+      "description": "Variants of Daily Menu Restaurant's logo design.",
+      "categories": ["Logo"],
+      "image": "images/portfolio/daily menu logos.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2022"
+    },
+    {
+      "id": "19",
+      "title": "Easter Sunday",
+      "description": "Minimalist poster design for an Easter Sunday post.",
+      "categories": ["Poster"],
+      "image": "images/portfolio/He is Risen.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "20",
+      "title": "Hair Essence Mockups",
+      "description": "Mockups of the product labels for Hair Essence hair care brand.",
+      "categories": ["Poster"],
+      "image": "images/portfolio/hair essence mockups.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "21",
+      "title": "Hair Essence Labels",
+      "description": "Product label designs for Hair Essence hair care brand.",
+      "categories": ["Poster"],
+      "image": "images/portfolio/hair essence labels.png",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "22",
+      "title": "Daily Menu Bread",
+      "description": "Minimalist mockup design for Daily Menu bread.",
+      "categories": ["Poster"],
+      "image": "images/portfolio/bread.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2022"
+    },
+    {
+      "id": "23",
+      "title": "Brithday Posters",
+      "description": "A collection of different birthday posters.",
+      "categories": ["Poster"],
+      "image": "images/portfolio/birthdays.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2022-2025"
+    },
+    {
+      "id": "24",
+      "title": "Partnership Posters",
+      "description": "Minimalist partnership poster design.",
+      "categories": ["Poster"],
+      "image": "images/portfolio/applyboard partnership.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "25",
+      "title": "Strategic Japaing",
+      "description": "Poster for a webinar hosted by Grace Edu Consult.",
+      "categories": ["Poster"],
+      "image": "images/portfolio/Strategic JAPAing.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "26",
+      "title": "FYB Profile",
+      "description": "Final Year Brethren profile design with purple accents for NTCMCF.",
+      "categories": ["Poster"],
+      "image": "images/portfolio/fyb.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "27",
+      "title": "Mission Outreach 2024",
+      "description": "Posters for NTCMCF rural mission outreach 2024.",
+      "categories": ["Poster"],
+      "image": "images/portfolio/mission outreach.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2024"
+    }
+  ],
+  "personalInfo": {
+    "name": "Pixacle",
+    "tagline": "Pixels meet Purpose",
+    "bio": "I am Emmanuel Ajibola. A developing product and graphic designer and a design enthusiast with years of invaluable experience creating compelling and highly functional designs. Let's create something memorable together.",
+    "profileImage": "images/oracle.jpg",
+    "resumeLink": "#",
+    "contact": {
+      "email": "ajiboss80@gmail.com",
+      "whatsapp": "+2348130232514",
+      "location": "Ilorin, Nigeria"
+    }
+  }
+}
