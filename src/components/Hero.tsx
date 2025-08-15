@@ -22,7 +22,7 @@ const Hero = () => {
         <div className="space-y-8">
           {/* Main heading */}
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold">
-            <span className="block mb-2">This is~</span>
+            <span className="block mb-2">This is</span>
             <span className="gradient-text animate-gradient bg-gradient-to-r from-purple-400 via-pink-400 to-cyan-400">
               {personalInfo.name}
             </span>
