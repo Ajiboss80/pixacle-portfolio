@@ -39,7 +39,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center">
-            <img className="mr-2" style={{ height:30, width:'auto', objectFit:'contain' }} src="images/logo.png" alt="Pixacle Logo" />
+            <img className="mr-2" style={{ height:30, width:'auto', objectFit:'contain' }} src="/images/logo.png" alt="Pixacle Logo" />
             <h1 className="text-xl font-bold gradient-text">Pixacle</h1>
           </div>
 

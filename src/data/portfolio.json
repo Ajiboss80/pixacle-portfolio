@@ -5,7 +5,7 @@
       "title": "Abratem International",
       "description": "Minimalist poster design for Abratem International.",
       "categories": ["Poster"],
-      "image": "images/portfolio/abratem international.jpg",
+      "image": "/images/portfolio/abratem international.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2024"
     },
@@ -14,7 +14,7 @@
       "title": "Sckeep",
       "description": "Logo variants for an IoT monitoring system utilizing barcode scanning technology.",
       "categories": ["Logo"],
-      "image": "images/portfolio/sckeep logos.jpg",
+      "image": "/images/portfolio/sckeep logos.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -23,7 +23,7 @@
       "title": "Margaret's Restaurant",
       "description": "Poster and menu card design for a fine restaurant.",
       "categories": ["Restaurant"],
-      "image": "images/portfolio/margaret.jpg",
+      "image": "/images/portfolio/margaret.jpg",
       "technologies": ["CorelDraw"],
       "year": "2022"
     },
@@ -32,7 +32,7 @@
       "title": "Dinner Tickets",
       "description": "Elegant dinner ticket design having green and gold accents with subtle decourative patterns.",
       "categories": ["Poster"],
-      "image": "images/portfolio/chassado tickets.jpg",
+      "image": "/images/portfolio/chassado tickets.jpg",
       "technologies": ["Photoshop"],
       "year": "2024"
     },
@@ -41,7 +41,7 @@
       "title": "100% Woman",
       "description": "Radio program poster for Royal FM.",
       "categories": ["Poster", "Royal FM"],
-      "image": "images/portfolio/100 woman.jpg",
+      "image": "/images/portfolio/100 woman.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2024"
     },
@@ -50,7 +50,7 @@
       "title": "Enchry",
       "description": "Logo variants for an IoT data encryption system.",
       "categories": ["Logo"],
-      "image": "images/portfolio/enchry logos.jpg",
+      "image": "/images/portfolio/enchry logos.jpg",
       "technologies": ["Photoshop"],
       "year": "2025"
     },
@@ -59,7 +59,7 @@
       "title": "Daily Menu",
       "description": "Brand logo design, color palette, and font families for Daily Menu Restaurant.",
       "categories": ["Logo", "Restaurant"],
-      "image": "images/portfolio/daily menu logo breakdown.jpg",
+      "image": "/images/portfolio/daily menu logo breakdown.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2022"
     },
@@ -68,7 +68,7 @@
       "title": "Goal of the Season",
       "description": "Football poster of the 2024 Premier League Goal of the Season scored by Alejandro Garnacho, for Royal FM.",
       "categories": ["Poster", "Royal FM"],
-      "image": "images/portfolio/goal of the season.jpg",
+      "image": "/images/portfolio/goal of the season.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2024"
     },
@@ -77,7 +77,7 @@
       "title": "Independence Day",
       "description": "Minimalist independence day poster design for Grace Edu Consult.",
       "categories": ["Poster", "Public Holidays"],
-      "image": "images/portfolio/independence grace edu.jpg",
+      "image": "/images/portfolio/independence grace edu.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2024"
     },
@@ -86,7 +86,7 @@
       "title": "Daily Menu Convocation Menu",
       "description": "Poster design for Daily Menu Restaurant's convocation package.",
       "categories": ["Poster", "Restaurant"],
-      "image": "images/portfolio/convocation menu.jpg",
+      "image": "/images/portfolio/convocation menu.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2024"
     },
@@ -95,7 +95,7 @@
       "title": "Happy Fathers' Day",
       "description": "Poster design for the International Fathers' Day, at Royal FM.",
       "categories": ["Poster", "Public Holidays", "Royal FM"],
-      "image": "images/portfolio/happy fathers' day.jpg",
+      "image": "/images/portfolio/happy fathers' day.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2024"
     },
@@ -104,7 +104,7 @@
       "title": "Eid-al-adha",
       "description": "Minimalist poster design with wine accents for Eid celebrations, at Royal FM.",
       "categories": ["Poster", "Public Holidays", "Royal FM"],
-      "image": "images/portfolio/eid kaduna.png",
+      "image": "/images/portfolio/eid kaduna.png",
       "technologies": ["Adobe Photoshop"],
       "year": "2024"
     },
@@ -113,7 +113,7 @@
       "title": "Thanksgiving",
       "description": "Decourative poster with musical instruments for a final year students' thanksgiving service.",
       "categories": ["Poster", "Church"],
-      "image": "images/portfolio/final year students thanksgiving 2025.png",
+      "image": "/images/portfolio/final year students thanksgiving 2025.png",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -122,7 +122,7 @@
       "title": "Instagram Account",
       "description": "Social media poster for a church Instagram account.",
       "categories": ["Poster", "Church"],
-      "image": "images/portfolio/ntcm youth instagram.png",
+      "image": "/images/portfolio/ntcm youth instagram.png",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -131,7 +131,7 @@
       "title": "Facebook Account",
       "description": "Social media poster for a church Facebook account.",
       "categories": ["Poster", "Church"],
-      "image": "images/portfolio/ntcm youth facebook.png",
+      "image": "/images/portfolio/ntcm youth facebook.png",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -140,7 +140,7 @@
       "title": "Musical Concert",
       "description": "Posters for a musical concert with a blue and white theme.",
       "categories": ["Poster", "Church"],
-      "image": "images/portfolio/true worship.jpg",
+      "image": "/images/portfolio/true worship.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -149,7 +149,7 @@
       "title": "Hair Essence Brand Identity Design",
       "description": "Logo breakdown, font family, and logo variants for a hair care brand.",
       "categories": ["Logo"],
-      "image": "images/portfolio/hair essence logo breakdown.jpg",
+      "image": "/images/portfolio/hair essence logo breakdown.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -158,7 +158,7 @@
       "title": "Daily Menu Logo Variants",
       "description": "Variants of Daily Menu Restaurant's logo design.",
       "categories": ["Logo"],
-      "image": "images/portfolio/daily menu logos.jpg",
+      "image": "/images/portfolio/daily menu logos.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2022"
     },
@@ -167,7 +167,7 @@
       "title": "Easter Sunday",
       "description": "Minimalist poster design for an Easter Sunday post.",
       "categories": ["Poster"],
-      "image": "images/portfolio/He is Risen.jpg",
+      "image": "/images/portfolio/He is Risen.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -176,7 +176,7 @@
       "title": "Hair Essence Mockups",
       "description": "Mockups of the product labels for Hair Essence hair care brand.",
       "categories": ["Poster"],
-      "image": "images/portfolio/hair essence mockups.jpg",
+      "image": "/images/portfolio/hair essence mockups.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -185,7 +185,7 @@
       "title": "Hair Essence Labels",
       "description": "Product label designs for Hair Essence hair care brand.",
       "categories": ["Poster"],
-      "image": "images/portfolio/hair essence labels.png",
+      "image": "/images/portfolio/hair essence labels.png",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -194,7 +194,7 @@
       "title": "Daily Menu Bread",
       "description": "Minimalist mockup design for Daily Menu bread.",
       "categories": ["Poster"],
-      "image": "images/portfolio/bread.jpg",
+      "image": "/images/portfolio/bread.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2022"
     },
@@ -203,7 +203,7 @@
       "title": "Brithday Posters",
       "description": "A collection of different birthday posters.",
       "categories": ["Poster"],
-      "image": "images/portfolio/birthdays.jpg",
+      "image": "/images/portfolio/birthdays.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2022-2025"
     },
@@ -212,7 +212,7 @@
       "title": "Partnership Posters",
       "description": "Minimalist partnership poster design.",
       "categories": ["Poster"],
-      "image": "images/portfolio/applyboard partnership.jpg",
+      "image": "/images/portfolio/applyboard partnership.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -221,7 +221,7 @@
       "title": "Strategic Japaing",
       "description": "Poster for a webinar hosted by Grace Edu Consult.",
       "categories": ["Poster"],
-      "image": "images/portfolio/Strategic JAPAing.jpg",
+      "image": "/images/portfolio/Strategic JAPAing.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -230,7 +230,7 @@
       "title": "FYB Profile",
       "description": "Final Year Brethren profile design with purple accents for NTCMCF.",
       "categories": ["Poster"],
-      "image": "images/portfolio/fyb.jpg",
+      "image": "/images/portfolio/fyb.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2025"
     },
@@ -239,7 +239,7 @@
       "title": "Mission Outreach 2024",
       "description": "Posters for NTCMCF rural mission outreach 2024.",
       "categories": ["Poster"],
-      "image": "images/portfolio/mission outreach.jpg",
+      "image": "/images/portfolio/mission outreach.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2024"
     }
@@ -248,7 +248,7 @@
     "name": "Pixacle",
     "tagline": "Pixels meet Purpose",
     "bio": "I am Emmanuel Ajibola. A developing product and graphic designer and a design enthusiast with years of invaluable experience creating compelling and highly functional designs. Let's create something memorable together.",
-    "profileImage": "images/oracle.jpg",
+    "profileImage": "/images/oracle.jpg",
     "resumeLink": "#",
     "contact": {
       "email": "ajiboss80@gmail.com",
