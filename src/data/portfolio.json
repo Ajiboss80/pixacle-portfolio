@@ -1,12 +1,84 @@
 {
   "projects": [
     {
+      "id": "16",
+      "title": "Musical Concert",
+      "description": "Posters for a musical concert with a blue and white theme.",
+      "categories": ["Poster", "Church"],
+      "image": "/images/portfolio/true worship.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "20",
+      "title": "Hair Essence Mockups",
+      "description": "Mockups of the product labels for Hair Essence hair care brand.",
+      "categories": ["Poster"],
+      "image": "/images/portfolio/hair essence mockups.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "21",
+      "title": "Hair Essence Labels",
+      "description": "Product label designs for Hair Essence hair care brand.",
+      "categories": ["Poster"],
+      "image": "/images/portfolio/hair essence labels.png",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "24",
+      "title": "Partnership Poster",
+      "description": "Minimalist partnership poster design.",
+      "categories": ["Poster"],
+      "image": "/images/portfolio/applyboard partnership.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "19",
+      "title": "IELTS Examination Booking",
+      "description": "Poster design for booking IELTS examination with Grace Edu Consult.",
+      "categories": ["Poster"],
+      "image": "/images/portfolio/exam bookings.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "25",
+      "title": "Strategic Japaing",
+      "description": "Poster for a webinar hosted by Grace Edu Consult.",
+      "categories": ["Poster"],
+      "image": "/images/portfolio/Strategic JAPAing.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
+      "id": "26",
+      "title": "FYB Profile",
+      "description": "Final Year Brethren profile design with purple accents for NTCMCF.",
+      "categories": ["Poster", "Church"],
+      "image": "/images/portfolio/fyb.jpg",
+      "technologies": ["Adobe Photoshop"],
+      "year": "2025"
+    },
+    {
       "id": "1",
       "title": "Abratem International",
       "description": "Minimalist poster design for Abratem International.",
       "categories": ["Poster"],
       "image": "/images/portfolio/abratem international.jpg",
       "technologies": ["Adobe Photoshop"],
+      "year": "2024"
+    },
+    {
+      "id": "4",
+      "title": "Dinner Tickets",
+      "description": "Elegant dinner ticket design having green and gold accents with subtle decourative patterns.",
+      "categories": ["Poster"],
+      "image": "/images/portfolio/chassado tickets.jpg",
+      "technologies": ["Photoshop"],
       "year": "2024"
     },
     {
@@ -19,6 +91,15 @@
       "year": "2025"
     },
     {
+      "id": "6",
+      "title": "Enchry",
+      "description": "Logo variants for an IoT data encryption system.",
+      "categories": ["Logo"],
+      "image": "/images/portfolio/enchry logos.jpg",
+      "technologies": ["Photoshop"],
+      "year": "2025"
+    },
+    {
       "id": "3",
       "title": "Margaret's Restaurant",
       "description": "Poster and menu card design for a fine restaurant.",
@@ -28,15 +109,6 @@
       "year": "2022"
     },
     {
-      "id": "4",
-      "title": "Dinner Tickets",
-      "description": "Elegant dinner ticket design having green and gold accents with subtle decourative patterns.",
-      "categories": ["Poster"],
-      "image": "/images/portfolio/chassado tickets.jpg",
-      "technologies": ["Photoshop"],
-      "year": "2024"
-    },
-    {
       "id": "5",
       "title": "100% Woman",
       "description": "Radio program poster for Royal FM.",
@@ -44,15 +116,6 @@
       "image": "/images/portfolio/100 woman.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2024"
-    },
-    {
-      "id": "6",
-      "title": "Enchry",
-      "description": "Logo variants for an IoT data encryption system.",
-      "categories": ["Logo"],
-      "image": "/images/portfolio/enchry logos.jpg",
-      "technologies": ["Photoshop"],
-      "year": "2025"
     },
     {
       "id": "7",
@@ -136,15 +199,6 @@
       "year": "2025"
     },
     {
-      "id": "16",
-      "title": "Musical Concert",
-      "description": "Posters for a musical concert with a blue and white theme.",
-      "categories": ["Poster", "Church"],
-      "image": "/images/portfolio/true worship.jpg",
-      "technologies": ["Adobe Photoshop"],
-      "year": "2025"
-    },
-    {
       "id": "17",
       "title": "Hair Essence Brand Identity Design",
       "description": "Logo breakdown, font family, and logo variants for a hair care brand.",
@@ -163,33 +217,6 @@
       "year": "2022"
     },
     {
-      "id": "19",
-      "title": "Easter Sunday",
-      "description": "Minimalist poster design for an Easter Sunday post.",
-      "categories": ["Poster"],
-      "image": "/images/portfolio/He is Risen.jpg",
-      "technologies": ["Adobe Photoshop"],
-      "year": "2025"
-    },
-    {
-      "id": "20",
-      "title": "Hair Essence Mockups",
-      "description": "Mockups of the product labels for Hair Essence hair care brand.",
-      "categories": ["Poster"],
-      "image": "/images/portfolio/hair essence mockups.jpg",
-      "technologies": ["Adobe Photoshop"],
-      "year": "2025"
-    },
-    {
-      "id": "21",
-      "title": "Hair Essence Labels",
-      "description": "Product label designs for Hair Essence hair care brand.",
-      "categories": ["Poster"],
-      "image": "/images/portfolio/hair essence labels.png",
-      "technologies": ["Adobe Photoshop"],
-      "year": "2025"
-    },
-    {
       "id": "22",
       "title": "Daily Menu Bread",
       "description": "Minimalist mockup design for Daily Menu bread.",
@@ -206,33 +233,6 @@
       "image": "/images/portfolio/birthdays.jpg",
       "technologies": ["Adobe Photoshop"],
       "year": "2022-2025"
-    },
-    {
-      "id": "24",
-      "title": "Partnership Posters",
-      "description": "Minimalist partnership poster design.",
-      "categories": ["Poster"],
-      "image": "/images/portfolio/applyboard partnership.jpg",
-      "technologies": ["Adobe Photoshop"],
-      "year": "2025"
-    },
-    {
-      "id": "25",
-      "title": "Strategic Japaing",
-      "description": "Poster for a webinar hosted by Grace Edu Consult.",
-      "categories": ["Poster"],
-      "image": "/images/portfolio/Strategic JAPAing.jpg",
-      "technologies": ["Adobe Photoshop"],
-      "year": "2025"
-    },
-    {
-      "id": "26",
-      "title": "FYB Profile",
-      "description": "Final Year Brethren profile design with purple accents for NTCMCF.",
-      "categories": ["Poster"],
-      "image": "/images/portfolio/fyb.jpg",
-      "technologies": ["Adobe Photoshop"],
-      "year": "2025"
     },
     {
       "id": "27",
